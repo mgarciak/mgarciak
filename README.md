@@ -46,7 +46,7 @@
 ---
 
 ## Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=mgarciak&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
 
 ---
 

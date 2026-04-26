@@ -10,8 +10,8 @@
 ¡Hola! Soy estudiante de grado en la **Facultat d'Informàtica de Barcelona (FIB)**. Actualmente busco mi primera oportunidad profesional para aplicar mis conocimientos académicos en entornos reales. Me considero una persona resolutiva, con una base sólida en algoritmia y sistemas, acostumbrada a la exigencia técnica de la UPC.
 
 - **Educación:** Grado en Ingeniería Informática (FIB - UPC)
-- **Localización:** Barcelona
-- **Objetivo:** Prácticas en desarrollo de software / sistemas / backend.
+- **Localización:** Barcelona, Cataluña
+- **Objetivo:** Desarrollo de software / sistemas / backend.
 
 ---
 
@@ -37,11 +37,8 @@
 
 ## Proyectos Destacados (FIB & Personales)
 
-> [!TIP]
-> Aquí puedes listar tus labs más potentes (siempre que la política de la uni lo permita) o proyectos propios.
-
-* **[Nombre del Proyecto 1]**: (Ejemplo) Implementación de un microprocesador en Verilog o un sistema de ficheros en C.
-* **[Nombre del Proyecto 2]**: (Ejemplo) Aplicación web para gestión de tareas usando Java.
+* **[Snake3D]**: Snake GAME 3D con C++ OpenGL.
+* **[TaskManager]**: Aplicación web para gestión de tareas usando Java.
 
 ---
 

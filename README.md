@@ -1,7 +1,7 @@
-# [Marc Garcia Picon]
+# Marc Garcia Picon
 
 ### Estudiante de Ingeniería Informática en la FIB - UPC
-**Passionate about low-level programming, systems, and software craftsmanship.**
+**Passionate about low-level programming, systems, and algorithm efficiency.**
 
 ---
 

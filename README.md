@@ -38,6 +38,7 @@
 ## Proyectos Destacados (FIB & Personales)
 
 * **[Snake3D]**: Snake GAME 3D con C++ OpenGL.
+* **[Blackjack]**: Juego de cartas Blackjack conta el ordenador en JavaSccript.
 * **[TaskManager]**: Aplicación web para gestión de tareas usando Java.
 
 ---

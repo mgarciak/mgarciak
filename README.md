@@ -1,63 +1,48 @@
-# Marc Garcia Picon
+# Hi, I'm Marc Garcia 
 
-### Estudiante de Ingeniería Informática en la FIB - UPC
-**Passionate about low-level programming, machine learning, and algorithm efficiency.**
+### Computer Engineering Student @ FIB - UPC
 
----
-
-## Sobre mí
-
-¡Hola! Soy estudiante de grado en la **Facultat d'Informàtica de Barcelona (FIB)**. Actualmente busco mi primera oportunidad profesional para aplicar mis conocimientos académicos en entornos reales. Me considero una persona resolutiva, con una base sólida en algoritmia y sistemas, acostumbrada a la exigencia técnica de la UPC.
-
-- **Educación:** Grado en Ingeniería Informática (FIB - UPC)
-- **Localización:** Barcelona, Cataluña
-- **Objetivo:** Desarrollo de software / sistemas / backend.
+Passionate about low-level programming, algorithms, computer graphics and efficient software development.
 
 ---
 
-##  Tecnologías y Herramientas
+## About Me
 
-### Lenguajes de Programación
+- Computer Engineering student at **FIB - Universitat Politècnica de Catalunya (UPC)**.
+- Interested in systems programming, backend development and computer graphics.
+- Currently improving my skills in C++, Java and JavaScript.
+- Barcelona, Spain.
+
+---
+
+## Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Assembler](https://img.shields.io/badge/Assembler_x86-800000?style=for-the-badge&logo=assembly&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_x86-800000?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-###  Datos y Análisis
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+## Tools
 
-###  Herramientas y Entorno
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 
-## Proyectos Destacados (FIB & Personales)
+## Featured Projects
 
-* **[Snake3D](https://github.com/mgarciak/Snake-3D)**: Juego Snake 3D desarrollado en C++ y OpenGL.
-* **[Blackjack](https://github.com/mgarciak/Blackjack)**: Juego de Blackjack contra el ordenador desarrollado en JavaScript.
-* **[TaskManager]**: Aplicación web para la gestión de tareas desarrollada en Java.
-
+- **[Snake 3D](https://github.com/mgarciak/Snake-3D)** — 3D Snake game developed with **C++** and **OpenGL**.
+- **[Blackjack](https://github.com/mgarciak/Blackjack)** — Blackjack game against the computer built with **JavaScript**.
+- **TaskManager** *(Coming soon)* — Task management web application developed in **Java**.
 
 ---
 
-## Contacto
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-garcía-picón-77a29b29b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.garcia.picon@estudiantat.upc.edu)
-
-
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgarciapicon7@gmail.com)

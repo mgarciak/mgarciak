@@ -34,14 +34,6 @@ Passionate about low-level programming, algorithms, computer graphics and effici
 
 ---
 
-## Featured Projects
-
-- **[Snake 3D](https://github.com/mgarciak/Snake-3D)** — 3D Snake game developed with **C++** and **OpenGL**.
-- **[Blackjack](https://github.com/mgarciak/Blackjack)** — Blackjack game against the computer built with **JavaScript**.
-- **TaskManager** *(Coming soon)* — Task management web application developed in **Java**.
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-garcía-picón-77a29b29b)

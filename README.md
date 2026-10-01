@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student @ FIB - UPC
 
-Passionate about low-level programming, algorithms, computer graphics and efficient software development.
+Curious about low-level programming, algorithms, computer graphics and efficient software development.
 
 ---
 
